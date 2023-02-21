@@ -45,3 +45,5 @@ class Prefix {
         return [commandName, params];
       }
 }
+
+module.exports = Prefix
